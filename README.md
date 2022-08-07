@@ -3,6 +3,11 @@
 <a href="https://sites.google.com/view/projectmoros"><img alt="Website" src="https://img.shields.io/website?&down_color=Red&down_message=Offline&up_color=Green&up_message=Online&url=https%3A%2F%2Fsites.google.com%2Fview%2Fprojectmoros&style=flat-square"></a>
 <a href="https://www.paypal.com/donate/?business=VJDEWWC6XZZ6W"><img alt="Paypal Button" src="https://img.shields.io/static/v1?label=PayPal&message=Donate&color=00457C&style=flat-square&logo=paypal"></a>
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4586549710524930"
+     crossorigin="anonymous"></script>
+</head>
+
 ---
 
 Project Moros is an **unblockable** game website that is going to be releasing sometime!
