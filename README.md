@@ -31,3 +31,6 @@ Moros is roughly the greek god of doom. More info can be found [here](https://en
 
 - Email: [ProjectMoros@gmail.com](mailto:projectmoros@gmail.com)
 - GitHub: https://github.com/project-moros
+
+
+<!-- School Filters Begone on September 1st (o_o*) -->
