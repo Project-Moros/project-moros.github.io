@@ -5,11 +5,10 @@
 
 ---
 
-Project Moros is an **unblockable** game website. More 
-
+Project Moros is an **unblockable** game website.
 ---
 
-## Where will I be able to find it?
+## Where can I find it?
 
 It is a Google Site that has a unique way of getting around web filters.
 
