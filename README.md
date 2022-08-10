@@ -28,10 +28,13 @@ Some games require web hosting that you can get elsewhere with this ease. This i
 ## Logo?
 
 Here ya go:
+
 ![logo](/fav/android-chrome-512x512.png)
 
 ---
 
-## Why does it need to be unblockable
+## Why does it need to be unblockable?
+
+Well, in some places like schools who have internet filters that block "distracting" sites. So there are no websites you can't play games. That is why.
 
 <!-- School Filters Begone on September 1st (o_o*) -->
