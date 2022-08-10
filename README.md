@@ -5,19 +5,13 @@
 
 ---
 
-Project Moros is an **unblockable** game website that is going to be releasing sometime!
-
----
-
-## When will it be released?
-
-The planned release date is `September 1st, 2022`
+Project Moros is an **unblockable** game website. More 
 
 ---
 
 ## Where will I be able to find it?
 
-It will be a Google Site that has a unique way of getting around web filters.
+It is a Google Site that has a unique way of getting around web filters.
 
 ---
 
@@ -26,11 +20,5 @@ It will be a Google Site that has a unique way of getting around web filters.
 Moros is roughly the greek god of doom. More info can be found [here](https://en.wikipedia.org/wiki/Moros) (Wikipedia).
 
 ---
-
-## Contact
-
-- Email: [ProjectMoros@gmail.com](mailto:projectmoros@gmail.com)
-- GitHub: https://github.com/project-moros
-
 
 <!-- School Filters Begone on September 1st (o_o*) -->
