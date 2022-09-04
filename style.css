@@ -127,6 +127,7 @@ aside > div {
     width: 50px;
     vertical-align: middle;
     margin-right: 10px;
+    border-radius: 10px;
 }
 
 body > section {
